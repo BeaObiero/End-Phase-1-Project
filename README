@@ -1,0 +1,20 @@
+# InspireMe - Quotes Generator
+
+InspireMe is a web application that generates inspirational quotes based on user-provided keywords. Users can easily get motivational quotes, copy them to the clipboard, and even delete quotes they don't find inspiring.
+
+## Features
+
+- Generate from five to ten quotes based on user-provided keywords.
+- Copy quotes to the clipboard with a single click.
+- Delete quotes that you no longer want.
+
+## Usage
+
+1. Open the application in your web browser.
+2. Enter keywords in the input field and click the "Get Quotes" button.
+3. Inspirational quotes will be generated and displayed.
+4. Click the "Copy" button to copy a quote to the clipboard.
+5. Click the "Delete" button to remove a quote.
+
+## Link to my Project Management Workspace on Trello
+https://trello.com/b/stIXnjn9/inspireme-app
